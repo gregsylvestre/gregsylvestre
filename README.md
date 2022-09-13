@@ -30,3 +30,9 @@
   <a href="https://pt.stackoverflow.com/users/195732/greg-sylvestre" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
  
 </div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/gregsylvestre/gregsylvestre/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
